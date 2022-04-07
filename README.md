@@ -4,4 +4,5 @@ Simulation and analysis code for the paper "Mind the gap: decoding decreases in 
 Data simulated using this code is available on GIN (link). (On GIN say: code for simulating and analyzing these data is available on GitHub)
 
 References
+
 Dmitry Kaplan (2022). Knee Point (https://www.mathworks.com/matlabcentral/fileexchange/35094-knee-point), MATLAB Central File Exchange. Retrieved April 7, 2022.
