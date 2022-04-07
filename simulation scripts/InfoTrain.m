@@ -1,6 +1,6 @@
 function IT = InfoTrain(c, isi)
 % InfoTrain creates an information train from a neuron's spike train
-% adapted from Mark Agrios' function
+% adapted from Mark Agrios' code
 
 % INPUTS
 % c = fitting function for log2 isi distribution (output of SumGamFit function)

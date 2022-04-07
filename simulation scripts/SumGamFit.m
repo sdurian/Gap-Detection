@@ -17,9 +17,7 @@ function [c] = SumGamFit(isi, lambda1, lambda2, k1, k2)
 l1 = lambda1*0.001;
 l2 = lambda2*0.1;
 
-%M = min([max(isi) 250]);
-M = 250;
-edges = [1:10 12:5:M]; % define bin edges with 1 ms precision for the first 10 ms and 5 ms precision for up to 250 ms
+edges = [1:10 12:5:250]; % define bin edges with 1 ms precision for the first 10 ms and 5 ms precision for up to 250 ms
 y = histcounts(isi, edges, 'Normalization', 'pdf'); % isi distribution we will fit to
 logy = log2(y); % log isi distribution
 x = mean([edges(1:end-1);edges(2:end)]);
