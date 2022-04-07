@@ -1,4 +1,6 @@
 # Gap-Detection
+Simulation and analysis code for the paper "Gap Detection Whatever" by Durian et al (2022).
+
 Scripts for simulating gap detection data
 
 TimingSimulationScript simulates data for the stimulus onset timing task. The corresponding measurement in the information train is "reaction time," the length of time between stimulus presentation and stimulus onset detection. StrengthSimulationScript simulates data for the stimulus strength detection task. The corresponding measurement in the information train is "gap length," the length of time between stimulus onset and offset detection.
