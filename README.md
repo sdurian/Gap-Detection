@@ -4,5 +4,3 @@ Simulation and analysis code for the paper "Mind the gap: decoding decreases in 
 References
 
 Dmitry Kaplan (2022). Knee Point (https://www.mathworks.com/matlabcentral/fileexchange/35094-knee-point), MATLAB Central File Exchange. Retrieved April 7, 2022.
-
-Note to self: need to put comments in pPSTH and IntroFigs to load from PopTiming.
