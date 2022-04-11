@@ -1,6 +1,16 @@
 # Gap-Detection
 Simulation and analysis code for the paper "Mind the gap: decoding decreases in tonic firing in populations of spiking neurons" by Durian et al (2022). Data simulated using this code is available on GIN (https://gin.g-node.org/sdurian/Gap-Detection/src/master).
 
+## Repository structure 
+### simulation scripts
+This directory contains scripts for simulating data to adress the questions, when was the stimulus detected (TimingSimulationScript.mlx), and what is the stimulus strength (StrengthSimulationScript.mlx)? The corresponding measurements in the information train are "reaction time," and "gap length", respectively.
+
+### analysis
+This directory contains analysis scripts for simulated data. Analysis scripts are named based on the task and the variable parameter (population size or correlation); e.g. PopTimingAnalysis.mlx contains the analysis procedure for the simulated data which the simulation script deposits in the folder PopTiming.
+
+#### Misc
+This holds miscellaneous functions needed for analysis as well as specific illustratory examples used in the paper and a comparison of population PSTH and population information train readout mechanisms.
+
 References
 
 Dmitry Kaplan (2022). Knee Point (https://www.mathworks.com/matlabcentral/fileexchange/35094-knee-point), MATLAB Central File Exchange. Retrieved April 7, 2022.
