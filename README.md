@@ -8,8 +8,7 @@ This directory contains scripts for simulating data to address the questions, wh
 ### analysis
 This directory contains analysis scripts for simulated data. Analysis scripts are named based on the task and the variable parameter; e.g. PopTimingAnalysis.mlx contains the analysis procedure for the data in the folder PopTiming.
 
-#### Misc
-This holds miscellaneous functions needed for analysis as well as specific illustratory examples used in the paper and a comparison of population PSTH and population information train readout mechanisms.
+The subdirectory Misc holds miscellaneous functions needed for analysis as well as specific illustratory examples used in the paper and a comparison of population PSTH and population information train readout mechanisms.
 
 References
 
