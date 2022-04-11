@@ -3,7 +3,7 @@ Simulation and analysis code for the paper "Mind the gap: decoding decreases in 
 
 ## Repository structure 
 ### simulation scripts
-This directory contains scripts for simulating data to address the questions, when was the stimulus detected (TimingSimulationScript.mlx), and what is the stimulus strength (StrengthSimulationScript.mlx)? The corresponding measurements in the information train are reaction time and gap length, respectively. Simulated data are deposited into folders which are named based on the task and the variable parameter (population size or correlation). For example, the simulation script will fill the folder PopTiming with data for the gap timing detection task with variable population size.
+This directory contains scripts for simulating data to address the questions, when was the stimulus detected (gap timing detection task; TimingSimulationScript.mlx), and what is the stimulus strength (strength detection task; StrengthSimulationScript.mlx)? The corresponding measurements in the information train are reaction time and gap length, respectively. Simulated data are deposited into folders which are named based on the task and the variable parameter (population size or correlation). For example, the simulation script will fill the folder PopTiming with data for the gap timing detection task with variable population size.
 
 ### analysis
 This directory contains analysis scripts for simulated data. Analysis scripts are named based on the task and the variable parameter; e.g. PopTimingAnalysis.mlx contains the analysis procedure for the data in the folder PopTiming.
