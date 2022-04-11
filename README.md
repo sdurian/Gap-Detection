@@ -10,6 +10,6 @@ This directory contains analysis scripts for simulated data. Analysis scripts ar
 
 The subdirectory Misc holds miscellaneous functions needed for analysis as well as specific illustratory examples used in the paper and a comparison of population PSTH and population information train readout mechanisms.
 
-References
+#### References
 
 Dmitry Kaplan (2022). Knee Point (https://www.mathworks.com/matlabcentral/fileexchange/35094-knee-point), MATLAB Central File Exchange. Retrieved April 7, 2022.
