@@ -1,5 +1,5 @@
 # Gap-Detection
-Simulation and analysis code for the paper "Mind the gap: decoding decreases in tonic firing in populations of spiking neurons" by Durian et al (2022). Data simulated using this code is available on GIN (link).
+Simulation and analysis code for the paper "Mind the gap: decoding decreases in tonic firing in populations of spiking neurons" by Durian et al (2022). Data simulated using this code is available on GIN (https://gin.g-node.org/sdurian/Gap-Detection/src/master).
 
 References
 
