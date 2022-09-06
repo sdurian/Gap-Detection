@@ -13,3 +13,6 @@ The subdirectory Misc holds miscellaneous functions needed for analysis as well 
 #### References
 
 Dmitry Kaplan (2022). Knee Point (https://www.mathworks.com/matlabcentral/fileexchange/35094-knee-point), MATLAB Central File Exchange. Retrieved April 7, 2022.
+
+
+doi:10.5281/zenodo.7054843
