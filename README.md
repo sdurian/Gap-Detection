@@ -1,5 +1,5 @@
 # Gap-Detection
-Simulation and analysis code for the paper "Optimal burstiness in populations of spiking neurons facilitates decoding of decreases in tonic firing" by Durian et al (2022). Data simulated using this code is available on GIN (https://gin.g-node.org/sdurian/Gap-Detection/src/master).
+Simulation and analysis code for the paper "Optimal burstiness in populations of spiking neurons facilitates decoding of decreases in tonic firing" by Durian et al (2022). Data simulated using this code is available on G-Node (https://gin.g-node.org/sdurian/Gap-Detection.git).
 
 ## Repository structure 
 ### simulation scripts
